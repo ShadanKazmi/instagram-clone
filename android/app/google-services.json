@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756435804923",
+    "project_id": "shadan-instagram-clone-project",
+    "storage_bucket": "shadan-instagram-clone-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756435804923:android:b138411e1d300f79c5865e",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756435804923-tdvkhbvmreean512mkrk9otr2tjaq03n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX15zzvE8reBSjSJWwmlo4zm-xqLUQ24Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756435804923-tdvkhbvmreean512mkrk9otr2tjaq03n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
